@@ -19,7 +19,7 @@
 
 <img src="./readme/heading.png" width="100%">
 
-<h2 align="center"><a  href="https://infoxpression.in">Visit the Site</a></h2>
+<h2 align="center"><a  href="https://infoxpression-a1433.web.app/">Visit the Site</a></h2>
 
 ### [Contributions are Welcome](https://github.com/techspaceusict/infox19/blob/master/CONTRIBUTING.md)
 
